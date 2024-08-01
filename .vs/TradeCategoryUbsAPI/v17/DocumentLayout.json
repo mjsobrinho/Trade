@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API\\TradeCategoryUbsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\services\\categorizetradesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:services\\categorizetradesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\interfaces\\itradecategorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:interfaces\\itradecategorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\entities\\responseerrormsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:entities\\responseerrormsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\services\\invalidtradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:services\\invalidtradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|d:\\api\\tradecategoryubsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{953C2519-78CA-4F9E-828D-8F85CF50855C}|TradeCategoryUbsAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorTecnoVar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ResponseErrorTecnoVar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseInsertItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ResponseInsertItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSeql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ResponseSeql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorJde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ResponseErrorJde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSufixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ResponseSufixo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITrade.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Interfaces\\ITrade.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITrade.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Interfaces\\ITrade.cs",
+              "RelativeToolTip": "Interfaces\\ITrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:13:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITradeCategorizationService.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Interfaces\\ITradeCategorizationService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITradeCategorizationService.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Interfaces\\ITradeCategorizationService.cs",
+              "RelativeToolTip": "Interfaces\\ITradeCategorizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:09:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidTradeException.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Services\\InvalidTradeException.cs",
+              "RelativeDocumentMoniker": "Services\\InvalidTradeException.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Services\\InvalidTradeException.cs",
+              "RelativeToolTip": "Services\\InvalidTradeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:17:05.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\CategoryDTO.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\CategoryDTO.cs",
+              "RelativeToolTip": "Entities\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:16:50.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseError.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseError.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseError.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseError.cs",
+              "RelativeToolTip": "Entities\\ResponseError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:10:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "Models\\Trade.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Models\\Trade.cs",
+              "RelativeToolTip": "Models\\Trade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:15:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseDTO.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\BaseDTO.cs",
+              "RelativeToolTip": "Entities\\BaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:56:12.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseBase.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseBase.cs",
+              "RelativeToolTip": "Entities\\ResponseBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:52:07.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseErrorMsg.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorMsg.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseErrorMsg.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorMsg.cs",
+              "RelativeToolTip": "Entities\\ResponseErrorMsg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:58:44.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategorizeTradesService.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Services\\CategorizeTradesService.cs",
+              "RelativeDocumentMoniker": "Services\\CategorizeTradesService.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Services\\CategorizeTradesService.cs",
+              "RelativeToolTip": "Services\\CategorizeTradesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:39:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\TransactionDTO.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\TransactionDTO.cs",
+              "RelativeToolTip": "Entities\\TransactionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:23:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Controllers\\TradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:08:47.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseSeql.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSeql.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseSeql.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSeql.cs",
+              "RelativeToolTip": "Entities\\ResponseSeql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseInsertItem.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseInsertItem.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseInsertItem.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseInsertItem.cs",
+              "RelativeToolTip": "Entities\\ResponseInsertItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:59:12.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseErrorTecnoVar.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorTecnoVar.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseErrorTecnoVar.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorTecnoVar.cs",
+              "RelativeToolTip": "Entities\\ResponseErrorTecnoVar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:58:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseErrorJde.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorJde.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseErrorJde.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseErrorJde.cs",
+              "RelativeToolTip": "Entities\\ResponseErrorJde.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:58:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseSufixo.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSufixo.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseSufixo.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Entities\\ResponseSufixo.cs",
+              "RelativeToolTip": "Entities\\ResponseSufixo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:32:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\API\\TradeCategoryUbsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\API\\TradeCategoryUbsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T18:10:20.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
